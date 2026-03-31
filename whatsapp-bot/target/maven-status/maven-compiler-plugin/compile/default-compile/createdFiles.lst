@@ -1,0 +1,6 @@
+com/whatsapp/bot/model/MessageLog.class
+com/whatsapp/bot/WhatsAppBotApplication.class
+com/whatsapp/bot/model/IncomingMessage.class
+com/whatsapp/bot/controller/WebhookController.class
+com/whatsapp/bot/model/WebhookResponse.class
+com/whatsapp/bot/service/ChatBotService.class
